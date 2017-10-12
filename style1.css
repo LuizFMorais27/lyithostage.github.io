@@ -1,0 +1,29 @@
+body {
+
+  background-image: url(images/header2.png);
+  background-repeat: no-repeat, no-repeat;
+  background-position: px;
+  background-size:
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+@font-face{
+  font-family: Caviar;
+  src: url(fonts/caviardreams.ttf)
+}
+
+@font-face{
+  font-family: quicksand;
+  src: url(fonts/quicksand.ttf);
+}
+
+.imgRight{
+  position:fixed;
+  left: 1180px;
+  margin-top: 450px;
+  box-shadow: -5px -5px 55px grey;
+}

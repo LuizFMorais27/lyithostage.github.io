@@ -1,0 +1,25 @@
+h1 {
+    font-family: Caviar;
+    text-align:center;
+    font-size: 80px
+
+}
+
+  @font-face{
+    font-family: Caviar;
+    src: url(fonts/caviardreams.ttf)
+  }
+
+h2 {
+  font-family: quicksand;
+
+}
+  @font-face{
+    font-family: quicksand;
+    src: url(fonts/quicksand.ttf);
+
+}
+
+body {
+
+  background-color: lightblue
